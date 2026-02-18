@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おぼえてる。",
+  "base_artist": "Home Made Kazoku",
+  "createdAt": "2026-02-18T02:50:21.846588Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おぼえてる。",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_おぼえてる。_HOME_MADE_家族.txt"
+    }
+  ]
+}
